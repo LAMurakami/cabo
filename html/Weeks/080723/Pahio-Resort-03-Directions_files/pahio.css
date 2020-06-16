@@ -1,0 +1,266 @@
+BODY
+{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 9pt;
+	background-color : #B9B286;
+	color : #666666;
+}
+
+P, TD, LI, OL, UL
+{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 9pt;
+	color : #666666;
+}
+
+.border
+{
+	background-color: #9A8A67;
+}
+
+.topnav
+{
+	background-color: #763856;
+}
+
+.branding
+{
+	background-color: #763856;	
+}
+
+.sideline
+{
+	background-color : #E3DAB3;
+	color : #763856;
+}
+
+.sideline1
+{
+	background-image : url(../images/bkgnd.gif);
+	color : #977A63;
+}
+
+.sideline2
+{
+	background-color : #DCD3AD;
+	color : #977A63;
+}
+
+.homeimage
+{
+	background-color: #E1D8B0;	
+}
+
+.central
+{
+	background-color: #EDE4C8;
+}
+
+.leftnav
+{
+	background-color: #E1D8B0;	
+}
+
+.content
+{
+	background-color : #FFFFFF;
+	color : #666666;
+}
+
+.contentsmall
+{
+	background-color : #FFFFFF;
+	color : #666666;
+	font-size : 7 pt;
+}
+
+.imageborder
+{
+	background-color: #977A63;	
+}
+
+.sidelinelarge
+{
+	font-size : 10pt;
+	color : #977A63;
+}
+
+.headtext
+{
+	font-family : "Times New Roman", Times, serif;
+	font-size : 16pt;
+	color : #763856;
+}
+
+.hometext
+{
+	color : #977A63;
+}
+
+.homelink
+{
+	color : #977A63;
+	font-size : 9pt;
+}
+
+.homelinklarge
+{
+	color : #977A63;
+	font-size : 10pt;
+	font-weight : bold;
+}
+
+.navtoplink
+{
+	font-family : "Times New Roman", Times, serif;
+	font-size : 15pt;
+	color : #000000;
+	text-decoration : none;
+}
+
+.navboldlink
+{
+	font-weight : bold;
+	font-size : 10pt;
+	color : #763856;
+}
+
+.navlink
+{
+	color : #763856;
+	font-size : 10pt;
+}
+
+.navboldlinkthird
+{
+	font-weight : bold;
+	color : #763856;
+	font-size : 8pt;
+}
+
+.navlinkthird
+{
+	color : #763856;
+	font-size : 8pt;
+}
+
+.contentlink
+{
+	color : #663333;
+}
+
+.contenthead
+{
+	font-size : 14pt;
+	color : #865E36;
+}
+
+.contentLight {
+	background-color : #F9F6ED;
+}
+
+.relatedlink
+{
+	color : #865E36;
+}
+
+.red
+{
+	color : #CC0000;
+}
+
+.white
+{
+	color : #FFFFFF;
+	font-size : 8pt;
+}
+
+.burgandy
+{
+	color : #763856;
+	font-size : 10pt;
+}
+
+.dayTitle
+{
+	
+	color : #FFFFFF;
+	font-size : 16pt;
+}
+
+
+.lineseperate
+{
+	background-color: #B79783;
+}
+
+.testimony
+{
+	line-height : 16pt;
+}
+
+.postcardText
+{
+	font-size : 10pt;
+	font-weight : bold;
+	color : White;
+	text-align : center;
+}
+
+.bold
+{
+	font-weight : bold;
+}
+
+.boldBlack
+{
+	font-weight : bold;
+	color : Black;
+}
+
+.newsRight
+{
+	background-color: #F9F6ED;
+	text-align : right;
+}
+
+.greyLine
+{
+	background-color : #DDDDDD;
+}
+
+.fieldtitle
+{
+	font-size : 12pt;
+	color : #000000;
+}
+
+.field
+{
+	font-family: Courier,monospace;
+}
+
+.homefooter
+{
+	color : #EAE4C8;
+	font-size : 8pt;
+}
+
+.footer
+{
+	color : #9A8A67;
+	font-size : 8pt;
+}
+
+.normal
+{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 9pt;
+	color : #000000;
+}
+
+.smalltext
+{
+	font-size : 8pt;
+}
+

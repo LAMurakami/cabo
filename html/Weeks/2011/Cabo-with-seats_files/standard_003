@@ -1,0 +1,1 @@
+mboxFactories.get('default').get('ViewPNR_Car_Hotel',2).setOffer(new mboxOfferDefault()).loaded();mboxFactories.get('default').getPCId().forceId("1282423468838-123064.19");

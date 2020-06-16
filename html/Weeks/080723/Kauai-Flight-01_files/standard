@@ -1,0 +1,1 @@
+mboxFactoryDefault.get('_shoppingSummary',0).setOffer(new mboxOfferDefault()).loaded();
